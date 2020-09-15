@@ -1,5 +1,5 @@
 #def hallo():
-#    print("hello world")
+#    print("hi world")
 
 #hallo ()
 #Pengulangan panggil 3x

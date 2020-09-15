@@ -1,5 +1,5 @@
 #tipe data string
-nama = "Professor Achmad Hidayat"
+nama = "Achmad Hidayat"
 
 #tipe data integer
 umur = 18
