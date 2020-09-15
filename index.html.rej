@@ -1,0 +1,15 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1,10 +1,10 @@
+ <html>
+ <head>
+-<title>Perubahan pada Hello World & Afterworld</title>
++
+ </head>
+ 
+ <body>
+-Hallo Dunia & Akhirat
++
+ </body>
+ 
+ </html>
+\ No newline at end of file
