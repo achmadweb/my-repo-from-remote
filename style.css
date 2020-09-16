@@ -6,3 +6,7 @@ body {
     background-color: antiquewhite;
     font-family: Arial, Helvetica, sans-serif;
  }
+
+ #profile-job {
+    text-align: center;
+}
